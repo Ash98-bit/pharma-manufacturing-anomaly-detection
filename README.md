@@ -1,10 +1,11 @@
 # pharma-manufacturing-anomaly-detection
 
-**Authors**: Aditi Shilke  
-**Course**: Master's Thesis  
-**Title**: Harnessing Data Science in Pharma: Improving Process Verification with Machine Learning  
+**Master's Thesis**: Harnessing Data Science in Pharma: Improving Process Verification with Machine Learning  
 **Supervised by**: Dr. Peter Roßbach & M.Sc Daniele Gadler  
-**Core Focus**: Anomaly detection using Unsupervised Machine Learning, data science and business analytics for the MS&T team at STADA AG  
+**Author**: Aditi Shilke  
+**Core Focus**: Anomaly detection using Unsupervised Machine Learning, data science and business analytics for the MS&T team at STADA AG 
+
+**Grade**: 1.3 (on a scale of 1 to 5, 1 being the best)
 
 ## Overview: 
 
@@ -31,5 +32,3 @@ This repository captures a few key components and analyses from the thesis, show
 Through a structured modeling framework, unsupervised machine learning models were developed, evaluated, and validated. Each approach successfully flagged outliers within the dataset, directly delivering the insights requested by stakeholders. These anomalies were not only statistically meaningful but also visually separable in both PCA projections and the raw feature space, reinforcing their structural distinctiveness.
 
 Post-hoc validation with historical data revealed that a significant portion of the flagged outliers overlapped with batches that had previously failed regulatory checks. This overlap provided a strong operational justification for the pipeline, highlighting its value in real-world quality assurance contexts.
-
-The project was awarded a grade of 1.3 (on a scale of 1 to 5, 1 being the best) :D
